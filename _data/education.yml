@@ -1,6 +1,20 @@
-# Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# Master's
+- degree: Completed coursework from Master's in Mathematics and Applications
+  uni: Instituto Superior Técnico, UL
+  year: 2013 &mdash; 2015
+  awards: Industrial and Applied Mathematics specialization
+  summary: "Project in Mathematical Modelling with Bosch Termotecnologia SA: Tolerance stackup analysis: A review of worst-case and statistical methods"
+# Modelling Week
+- degree: European Consortium for Mathematics in Industry Modelling Week
+  uni: Universidad Carlos III de Madrid
+  year: July 2013
+  summary: "Project: Efficient parameter-dependent simulation of infections in a population model"
+# Bachelor's
+- degree: Bachelor's Degree in Computational and Applied Mathematics
+  uni: Instituto Superior Técnico, UL
+  year: 2008 &mdash; 2013
+  summary: "Course project: The method of fundamental solutions: Approximation error with different boundary norms"
+# FCT
+- degree: 1st year of Bachelor’s Degree in Environmental Engineering
+  uni: Faculdade de Ciências e Tecnologia, UNL
+  year: 2007 &mdash; 2008
