@@ -4,4 +4,4 @@
   role: Author
   duration: Nov 2016 &mdash; Present
   description: 'When R scripts need to be run in sequence it is <a href="http://adv-r.had.co.nz/Style.html" target="_blank">good practice</a> 
- to prefix them with numbers. This package makes it easier to add a script to the middle of an existing workflow without the need to manually renumber the all the scripts.'
+ to prefix them with numbers. This package makes it easier to add a script to the middle of an existing workflow without the need to manually renumber all the scripts.'
