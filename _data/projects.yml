@@ -1,6 +1,6 @@
 # Projects
 # 
-- project: renamer (R package)
+- project: '<a href="https://github.com/quartin/renamer" target="_blank">renamer</a> (R package)'
   role: Author
   duration: Nov 2016 &mdash; Present
   description: 'When R scripts need to be run in sequence it is <a href="http://adv-r.had.co.nz/Style.html" target="_blank">good practice</a> 
