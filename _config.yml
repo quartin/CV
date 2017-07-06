@@ -19,7 +19,7 @@ resume_header_contact_info: '(+351) 926 302 901 | <span class="spamspan">
 [at]
 <span class="d">gmail [dot] com</span>
 </span>'
-resume_header_intro: "<p>Mathematics background, with a gaining interest in programming.</p>"
+resume_header_intro: "<p>Mathematics background with a gaining interest in programming. I enjoy the challenges of modelling a business problem in mathematical terms, taking care of data ingestion, munging and cleaning for a specific task, coming up with the best mongo query, debugging some nasty code, setting up an A/B test, or getting my hands dirty on some new tool.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
