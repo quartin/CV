@@ -14,8 +14,12 @@ resume_name:                    "Susana Quartin"
 resume_title:                   "Data Scientist"
 resume_contact_email:
   "susanaquartin@gmail.com"
-resume_header_contact_info: "Praceta Fernandes Tomás 9 R/C | 2795-079 Linda-a-Velha | susanaquartin@gmail.com"
-resume_header_intro: "<p>AKA magician!</p>"
+resume_header_contact_info: '(+351) 926 302 901 | <span class="spamspan">
+<span class="u">susanaquartin</span>
+[at]
+<span class="d">gmail [dot] com</span>
+</span>'
+resume_header_intro: "<p>Mathematics background, with a gaining interest in programming.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -26,9 +30,9 @@ resume_header_intro: "<p>AKA magician!</p>"
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_education:       true
-resume_section_projects:        true
 resume_section_skills:          true
+resume_section_projects:        true
+resume_section_education:       true
 #resume_section_recognition:     true
 #resume_section_links:           false
 #resume_section_associations:    true

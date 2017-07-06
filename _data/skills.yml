@@ -1,13 +1,10 @@
 # Skills
 
-- skill: R
-  description: super wow!
+- skill: Proficient, daily use
+  description: R, Scala, Git, MongoDB, Bash
 
-- skill: Machine Learning
-  description: wizard level!
+- skill: Used in the past
+  description: Matlab, SQL, Mathematica, Microsoft R Server
   
-- skill: Scala
-  description: i wish
-
-- skill: MongoDB
-  description: aggregate everywhere!
+- skill: Had some exposure to
+  description: Spark, Java, Javascript
