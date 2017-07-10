@@ -1,12 +1,23 @@
 # Jobs
-# Morphing Portals
-- company: Morphing Portals
-  position: Data Scientist
-  duration: Oct, 2016 &mdash; Present
-  summary: 
-
+#<ul style="list-style-type:none">
 # Infosistema
-- company: Infosistema
+- company: Infosistema/Morphing Portals
   position: Data Scientist
-  duration:  Jan, 2016 &mdash; Oct, 2016
-  summary: 
+  duration:  Jan, 2016 &mdash; Present
+  projects: '<b>Projects and main responsibilities&#58;</b> <ul> 
+  <li>Morphing Portals (Jan, 2016 &mdash; May, 2017)&#58; <ul>
+  <li>Data ingestion, cleaning and wrangling from client scripts and external datasets;</li>
+  <li>Feature selection/engineering for the machine learning model;</li>
+  <li>Introduction and migration to H2O, led to model training time reduction from &#126;1hr to &#126;10s;</li>
+  <li>During product refactor, contributed to data specifications and modelling;</li>
+  <li>Research and prototyping of new technologies/product enhancements.</li>
+  </ul>
+  </li>
+  <br><li>Data mining consultancy project (May, 2016 &mdash; Jun, 2016)&#58 <ul>
+  <li>Extract insights about customer behaviour.</li>
+  </ul></li>
+  <br><li>Doc Digitizer (May, 2017 &mdash; Present)&#58; <ul>
+  <li>Modelling of the problem;</li>
+  <li>Development of an algorithm for an information extraction application.</li>
+  </ul></li>
+  </ul>'

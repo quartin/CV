@@ -1,7 +1,10 @@
 # Skills
 
 - skill: Proficient, daily use
-  description: R, Scala, Git, MongoDB, Bash, H2O
+  description: R, Git, MongoDB
+  
+- skill: Comfortable with
+  description: Scala, Bash, H2O
 
 - skill: Used in the past
   description: Matlab, SQL, Mathematica, Microsoft R Server

@@ -3,17 +3,12 @@
   uni: Instituto Superior Técnico, UL
   year: 2013 &mdash; 2015
   awards: Industrial and Applied Mathematics specialization
-  summary: "Project in Mathematical Modelling with Bosch Termotecnologia SA: Tolerance stackup analysis: A review of worst-case and statistical methods"
+  summary: "Project in Mathematical Modelling with Bosch Termotecnologia SA: Tolerance stackup analysis &mdash; A review of worst-case and statistical methods."
 # Bachelor's
 - degree: Bachelor's Degree in Computational and Applied Mathematics
   uni: Instituto Superior Técnico, UL
   year: 2008 &mdash; 2013
-  summary: "Course project: The method of fundamental solutions: Approximation error with different boundary norms"
-  # Modelling Week
-- degree: European Consortium for Mathematics in Industry Modelling Week
-  uni: Universidad Carlos III de Madrid
-  year: July 2013
-  summary: "Project: Efficient parameter-dependent simulation of infections in a population model"
+  summary: "Course project: The method of fundamental solutions &mdash; Approximation error with different boundary norms."
 # FCT
 - degree: 1st year of Bachelor’s Degree in Environmental Engineering
   uni: Faculdade de Ciências e Tecnologia, UNL
