@@ -4,38 +4,27 @@
   {% include head.html %}
 
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
-
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
-
       <header class="page-header">
-
         <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{ site.resume_name }}</h1>
-
         <!-- Contact buttons don't work in print, configure in the _config.yml file, remove "print-only" to display always. -->
         <div class="header-contact-info" itemprop="contact-info">
           <p>{{ site.resume_header_contact_info }}</p>
         </div>
-
         <div class="title-bar no-print">
-
           <!-- Your title is also defined in the _config.yml file -->
           <h2 class="header-title" itemprop="jobTitle">{{ site.resume_title }}</h2>
-
           <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
           {% include icon-links.html %}
         </div>
-
         <div class="executive-summary no-print" itemprop="description">
           {{ site.resume_header_intro }}
         </div>
-
       </header>
-
       {% if site.resume_section_experience %}
       <!-- begin Experience -->
       <section class="content-section">
-
         <header class="section-header">
           <h2>Experience</h2>
         </header>
@@ -108,9 +97,6 @@
       </section>
       <!-- end Education -->
       {% endif %}
-   
     </div>
-
   </body>
-
 </html>
