@@ -6,7 +6,7 @@
   duration:  Jan, 2016 &mdash; Present
   projects: '<b>Projects and main responsibilities&#58;</b> <ul> 
   <li>Morphing Portals (Jan, 2016 &mdash; May, 2017)&#58; <ul>
-  <li>Data ingestion, cleaning and wrangling from client scripts and external datasets;</li>
+  <li>Data ingestion, cleaning and wrangling from user data and external datasets;</li>
   <li>Feature selection/engineering for the machine learning model;</li>
   <li>Introduction and migration to H2O, led to model training time reduction from &#126;1hr to &#126;10s;</li>
   <li>During product refactor, contributed to data specifications and modelling;</li>
