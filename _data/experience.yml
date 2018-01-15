@@ -1,9 +1,14 @@
 # Jobs
+# Talkdesk
+- company: '- Talkdesk'
+  position: Data Scientist
+  duration: Sep, 2017 &mdash; Present
+  projects:  
 #<ul style="list-style-type:none">
 # Infosistema
-- company: Infosistema/Morphing Portals
+- company: '- Infosistema/Morphing Portals'
   position: Data Scientist
-  duration:  Jan, 2016 &mdash; Present
+  duration:  Jan, 2016 &mdash; Sep, 2017
   projects: '<b>Projects and main responsibilities&#58;</b> <ul> 
   <li>Morphing Portals (Jan, 2016 &mdash; May, 2017)&#58; <ul>
   <li>Data ingestion, cleaning and wrangling from user data and external datasets;</li>
@@ -16,7 +21,7 @@
   <br><li>Data mining consultancy project (May, 2016 &mdash; Jun, 2016)&#58 <ul>
   <li>Extract insights about customer behaviour.</li>
   </ul></li>
-  <br><li>Doc Digitizer (May, 2017 &mdash; Present)&#58; <ul>
+  <br><li>Doc Digitizer (May, 2017 &mdash; Sep, 2017)&#58; <ul>
   <li>Modelling of the problem;</li>
   <li>Development of an algorithm for an information extraction application.</li>
   </ul></li>
