@@ -1,6 +1,4 @@
-# Site settings
-title: "Susana Quartin's resume"
-#description: "A resume template for Jekyll and GitHub Pages sites."
+title: Susana Quartin's resume
 
 # Build settings
 markdown: kramdown
@@ -9,40 +7,31 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "false"
-resume_name:                    "Susana Quartin"
-resume_title:                   "Data Scientist"
-resume_contact_email:
-  "susanaquartin@gmail.com"
+resume_avatar:                  false
+resume_name:                    Susana Quartin
+resume_title:                   Software Engineer
 resume_header_contact_info: '(+351) 926 302 901 | <span class="spamspan">
 <span class="u">susanaquartin</span>
 [at]
 <span class="d">gmail [dot] com</span>
 </span>'
-resume_header_intro: "<p>Data scientist with an applied mathematics background and a gaining interest in programming.</p>"
-
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-#resume_looking_for_work:        "yes"
+resume_header_intro: <p>Former Data Scientist, with an academic background in applied mathematics.</p>
 
 # Decide which sections to use
 # comment out to hide
 resume_section_experience:      true
-resume_section_skills:          true
+resume_section_tech_stack:      true
 resume_section_projects:        true
 resume_section_education:       true
-#resume_section_recognition:     true
 #resume_section_links:           false
-#resume_section_associations:    true
-# resume_section_interests:       true
+#resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/quartin"
-  resume_linkedin_url:          "https://www.linkedin.com/in/susana-quartin-8443b549"
+  resume_linkedin_url:          "https://www.linkedin.com/in/susana-quartin"
+  resume_pdf_url:               quartin-cv.pdf
 resume_print_social_links:      true
 
 # Design settings

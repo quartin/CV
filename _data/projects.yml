@@ -1,12 +1,25 @@
 # Projects
 # 
-- project: '<a href="https://github.com/quartin/renamer" target="_blank">renamer</a> (R package)'
+- project: Coisas da Governação
   role: Author
-  duration: Nov 2016 &mdash; Present
-  description: 'When R scripts need to be run in sequence it is <a href="http://adv-r.had.co.nz/Style.html" target="_blank">good practice</a> 
- to prefix them with numbers. This package makes it easier to add a script to the middle of an existing workflow without the need to manually renumber all the scripts.'
+  duration: Aug &mdash; Sept 2019
+  description: Before the 2019 Portuguese Legislative elections, I paired with another Talkdesk Data Scientist and used some of the text mining techniques we were exploring and using at Talkdesk to extract insights about the parties' manifestos. This experiment resulted in a couple of blog posts (portuguese only) and a talk at a Geek Girls Portugal meetup, in October 2019.
+  links: '<a href="https://github.com/coisas-da-governacao" target="_blank">Blog source</a>, <a href="https://docs.google.com/presentation/d/1pdSQlTpGw2JBeKqV9ZRLXxM-RMDS9HqvY1U27lDxEO8/edit?usp=sharing" target="_blank"> Geek Girls Portugal Meetup Slides (English)</a>'
+
+- project: dbutils (R package) 
+  role: Author
+  duration: Jul &mdash; Dec 2018 
+  description: Utilities for interacting with databases in R. Includes feature to query asynchronously using the future package.
+  links: '<a href="https://github.com/quartin/dbutils" target="_blank"> Github repo</a>'
  
-- project: '<a href="https://ecmiindmath.org/" target="_blank">ECMI</a> Modelling Week'
-  role: Participant
-  duration: July 21 - 28 2013
-  description: 'Efficient parameter-dependent simulation of infections in a population model. Project report <a href="https://drive.google.com/file/d/0B7xVymjPrGzUd2N6QmE4WEJQMTg/view?usp=sharing" target="_blank">here</a>.'
+      
+  #- project: renamer (R package)
+  #  role: Author
+  #  duration: Nov 2016 &mdash; Aug 2017 
+  #  description: 'When R scripts need to be run in sequence it is <a href="http://adv-r.had.co.nz/Style.html" target="_blank">good practice</a> to prefix them with numbers. This package makes it easier to add a script to the middle of an existing workflow without the need to manually renumber all the scripts.'
+  #  links: '<a href="https://github.com/quartin/renamer" target="_blank"> Github repo</a>'
+  # 
+      #- project: '<a href="https://ecmiindmath.org/" target="_blank">ECMI</a> Modelling Week'
+      #  role: Participant
+      #  duration: July 21 - 28 2013
+      #description: 'Efficient parameter-dependent simulation of infections in a population model. Project report <a href="https://drive.google.com/file/d/0B7xVymjPrGzUd2N6QmE4WEJQMTg/view?usp=sharing" target="_blank">here</a>.'

@@ -1,28 +1,48 @@
-# Jobs
-# Talkdesk
-- company: '- Talkdesk'
-  position: Data Scientist
-  duration: Sep, 2017 &mdash; Present
+- company: Talkdesk
+  position: Data Scientist & Software Engineer
+  duration: Sep 2017 &mdash; Present
   projects:  
-#<ul style="list-style-type:none">
-# Infosistema
-- company: '- Infosistema/Morphing Portals'
+    Talkdesk offers an end-to-end Contact Center as a Service solution. As a data scientist and developer in a cross-functional data science team, I had the opportunity to work on different products with different stacks, particularly Scala for data processing and Kotlin with Spring Boot for web services.
+    <br><br>
+    <b>Outbound dialer reporting</b>
+     <ul>
+     Being able to automatically dial customers is an important feature for outbound-focused contact centers. Talkdesk's outbound dialer solution allows a client to run campaigns over contact lists. One key element of an automatic dialer is the ability to monitor and evaluate current and past campaigns' performance. Within the data science team, I was involved in building its reporting solution. This required close collaboration with several teams and working on different Talkdesk platforms, namely data and reporting. Our responsibilities included working on the business logic to process relevant events related to calls and agents metrics, as well as work on the visualization front, leveraging Looker. Stack was Scala (data platform), SQL, Spark, Looker.
+     </ul>
+
+    <b>IVR Optimization dashboard</b>
+    <ul>
+    A badly configured interactive voice response (IVR) can negatively impact not only the customer experience but also the contact center KPIs. We created a client facing dashboard that monitors several important metrics (e.g., abandonment rate, looping ratio) and offers recommendations to optimize the IVR configuration. Our responsibilities included defining the metrics, processing relevant events and work on the visualization front, leveraging Looker. Stack was Scala (data platform), Kotlin + Spring Boot for a small API to expose in the front-end when there were IVR configurations with insights, SQL, Looker. 
+    </ul>
+
+    <b>Topics' extraction</b>
+    <ul>
+    Knowing the subject of a conversation is crucial for contact center supervisors, namely for agent training purposes or quality management. The data science team was responsible for building a pipeline to extract topics from calls' transcriptions. Solution involved scheduled spark jobs for topic extraction (using LDA algorithm), and associating each call with a topic, with results and metrics presented in Talkdesk reporting.
+    </ul>
+
+    <b>Estimated waiting time API</b>
+    <ul>
+    In order to give a better experience to customers, contact centers will often want to inform callers on how long they are expected to wait before an agent is available. Other times, such predictions can be useful to route customers to different queues. For these use cases, we built an internal API that, given a certain queue, will return an estimation of how long will it take for the call to be picked up by an agent. Stack was Kotlin + Spring boot + SQL.
+    </ul>
+
+
+- company: Infosistema/Morphing Portals
   position: Data Scientist
-  duration:  Jan, 2016 &mdash; Sep, 2017
-  projects: '<b>Projects and main responsibilities&#58;</b> <ul> 
-  <li>Morphing Portals (Jan, 2016 &mdash; May, 2017)&#58; <ul>
-  <li>Data ingestion, cleaning and wrangling from user data and external datasets;</li>
-  <li>Feature selection/engineering for the machine learning model;</li>
-  <li>Introduction and migration to H2O, led to model training time reduction from &#126;1hr to &#126;10s;</li>
-  <li>During product refactor, contributed to data specifications and modelling;</li>
-  <li>Research and prototyping of new technologies/product enhancements.</li>
-  </ul>
-  </li>
-  <br><li>Data mining consultancy project (May, 2016 &mdash; Jun, 2016)&#58 <ul>
-  <li>Extract insights about customer behaviour.</li>
-  </ul></li>
-  <br><li>Doc Digitizer (May, 2017 &mdash; Sep, 2017)&#58; <ul>
-  <li>Modelling of the problem;</li>
-  <li>Development of an algorithm for an information extraction application.</li>
-  </ul></li>
-  </ul>'
+  duration:  Jan 2016 &mdash; Sep 2017
+  projects: 
+    <b>Projects and main responsibilities&#58;</b>
+      <ul> 
+        <li>Morphing Portals &mdash; web advertising solution 
+        <ul>
+          <li>Data ingestion, cleaning and wrangling from user data and external datasets;</li>
+          <li>Feature selection/engineering for the machine learning model;</li>
+          <li>Introduction and migration to H2O, led to model training time reduction from &#126;1hr to &#126;10s;</li>
+          <li>During product refactor, contributed to data specifications and modelling;</li>
+        </ul>
+        </li>
+      <br>
+      <li>Doc Digitizer &mdash; automatically extract relevant information from documents (e.g., invoices) 
+      <ul>
+        <li>Modelling of the problem and development of an algorithm for an information extraction application.</li>
+      </ul>
+      </li>
+      </ul>
